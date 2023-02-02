@@ -1,0 +1,35 @@
+  
+
+
+  // const ptag = document.querySelectorAll("p");
+// ptag.forEach(function (p) {
+//   //p.textContent = "This is a one liner";
+//   //console.log(p.textContent);
+//   ptag.remove("the");
+// });
+
+// ptag.forEach(function (p) {
+//   //p.textContent = "This is a one liner";
+//   //console.log(p.textContent);
+//   //  if (ptag.textContent.includes('the'){
+//   //         ptag.remove()
+//   //     })
+//   ptag.remove("the");
+// });
+
+
+/////////////////////////////////////////////////////////////
+////listen for new creation
+//  document.querySelector("#add-todo").addEventListener("click", function () {
+// document.querySelectorAll(".todo-remove").forEach(function (getrid) {
+//  console.log("add a new todo");
+//  });
+
+// document
+//   .querySelector("#new-todo-text")
+//   .addEventListener("input", function (e) {
+//     filters.searchText = e.target.value;
+//     console.log(e.target.value);
+//   });
+
+
